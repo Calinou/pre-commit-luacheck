@@ -1,6 +1,6 @@
 # pre-commit-luacheck
 
-Lints Lua files using Luacheck.
+Lints Lua files using [Luacheck](https://luacheck.readthedocs.io/en/stable/).
 
 ## Installation
 
