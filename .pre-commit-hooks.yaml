@@ -1,0 +1,6 @@
+- id: luacheck
+  name: Luacheck
+  description: Lints Lua files using Luacheck.
+  entry: luacheck --
+  language: system
+  types: [file, lua]
